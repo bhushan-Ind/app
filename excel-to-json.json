@@ -1,5 +1,4 @@
-{
-  "Sheet1": [
+[
     {
       "Timestamp": 45422.2225,
       "Issue_Key": "RS-1570",
@@ -60051,4 +60050,3 @@
       " The timestamp of the recorded data.": " The number of comments on the issue."
     }
   ]
-}
